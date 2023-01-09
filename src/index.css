@@ -1,0 +1,33 @@
+* {
+  font-family: 'Inter';
+  font-style: normal;
+}
+
+.navlogo {
+  background: #F55A5A;
+  color: #FFFFFF;
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  height: 80px;
+}
+
+.navlogo-text {
+  margin-left: 40%;
+}
+
+
+.card {
+  margin-top: 90px;
+  display: flex;
+
+}
+
+.card-image{
+  width: 300px;
+  height: 200px;
+  max-width: 500px;
+}
+
+card-info-point
