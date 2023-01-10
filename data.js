@@ -2,7 +2,7 @@ export default [
     {
         id: 1,
         title: "Mount Fuji",
-        location: "Japan",
+        location: "JAPAN",
         googleMapsUrl: "https://goo.gl/maps/1DGM5WrWnATgkSNB8",
         startDate: "12 Jan, 2021",
         endDate: "24 Jan, 2021",
@@ -12,7 +12,7 @@ export default [
     {
         id: 2,
         title: "Patriarch's Ponds",
-        location: "Russia",
+        location: "RUSSIA",
         googleMapsUrl: "https://goo.gl/maps/4SfVoZPVhJuW15WC7",
         startDate: "12 May, 2021",
         endDate: "24 May, 2021",
@@ -22,7 +22,7 @@ export default [
     {
         id: 3,
         title: "Great Wall of China",
-        location: "China",
+        location: "CHINA",
         googleMapsUrl: "https://goo.gl/maps/iEvPqEmKetfh8eaZA",
         startDate: "12 May, 2021",
         endDate: "24 May, 2021",
@@ -32,11 +32,21 @@ export default [
     {
         id: 4,
         title: "Niagara Falls",
-        location: "Canada",
+        location: "CANADA",
         googleMapsUrl: "https://goo.gl/maps/J5zVcfnVqrbHezXb7",
         startDate: "12 May, 2021",
         endDate: "24 May, 2021",
         description: "Niagara Falls is a group of three waterfalls at the southern end of Niagara Gorge, spanning the border between the province of Ontario in Canada and the state of New York in the United States.",
         imageUrl: "./src/assets/niagara.jpeg"
+    },
+    {
+        id: 5,
+        title: "Patriarch's Ponds",
+        location: "RUSSIA",
+        googleMapsUrl: "https://goo.gl/maps/4SfVoZPVhJuW15WC7",
+        startDate: "12 May, 2021",
+        endDate: "24 May, 2021",
+        description: "One of the most beautiful places I have ever been visited with her",
+        imageUrl: "./src/assets/ponds.jpeg"
     }
 ]
