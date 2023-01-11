@@ -3,6 +3,10 @@ body {
   font-style: normal;
 }
 
+main {
+  padding: 20px;
+}
+
 
 .nav-header{
   width: 100%;
@@ -71,14 +75,17 @@ input[type="text"]::placeholder {
 
 }
 
-.form-submit {
+.form-button {
   width: 600px;
   height: 60px;
-  background: linear-gradient(90deg, #672280 1.18%, #A626D3 100%);
-  font-weight: 700;
-  font-size: 20px;
-  border: none;
-  text-align: center;
-  color: #FFFFFF;
+  font-family: "Karla", sans-serif;
   border-radius: 5px;
+  background: linear-gradient(90.41deg, #711F8D 1.14%, #A818DA 100%);
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.meme--image {
+  max-width: 100%;
 }
